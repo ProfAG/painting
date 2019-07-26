@@ -10,6 +10,6 @@ My free css3 painting, with float technique. I hope you find it beautiful! :smil
  
 ## Live Version :link:
 
-https://profag.github.io/painting-art-/
+https://profag.github.io/painting-art/
 
 **I love coding, Hell Yeah!**![N|Solid](https://i.imgur.com/IT2vqfH.png)
