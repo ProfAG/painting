@@ -1,5 +1,5 @@
  # CSS3 painting :art: :large_orange_diamond: :large_blue_diamond: 
-My free css3 painting, with float technik. I hope you find it beautiful! :smiley: 
+My free css3 painting, with float technique. I hope you find it beautiful! :smiley: 
 
 ## Built With 
 
